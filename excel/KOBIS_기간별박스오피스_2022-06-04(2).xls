@@ -1,0 +1,6296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<style>
+html { font-family:'맑은 고딕',Calibri, Arial, Helvetica, sans-serif; font-size:11pt; background-color:white }
+.tbl_tit{width:100%;}
+.tbl_tit em{font-weight: bold;font-style: normal}
+.tbl_tit_sub{background-color: black;color:white;font-size: 13pt;font-weight: bold;}
+.tbl_tit_ser{font-size:10pt; font-weight: bold;background-color:#D8D8D8}
+.tbl_tit_desc{color:#000000;  font-size:9pt}
+.board_tit{font-weight: bold;color: #5076db;font-size: 11pt;margin-top:10px;margin-bottom: 0px;}
+.tbl_exc{font-size: 10pt;}
+.tbl_exc tr{height:15pt;}
+.tbl_exc td{text-align: center;}
+.tbl_exc th{height:15pt;background-color: black;color:white;font-weight: bold;border-left: 1px solid #FFF;border-right: 1px solid #FFF;}
+.tbl_exc tr.sumTr{background-color:#777; height: 40px; text-align: right;color:white;font-weight: bold;}
+.tal {text-align:left !important;}
+.tar {text-align:right !important;}
+.tac {text-align:center !important;}
+</style>
+<body>
+	
+	
+		
+		
+	
+	
+	
+		
+		
+	
+	
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<table border="0" class="tbl_tit">
+		<tr>
+			<td class="tbl_tit_sub" colspan="18">■ 기간별 박스오피스</td>
+		</tr>
+		<tr>	
+			<td class="tbl_tit_desc" colspan="18">- <em>조회일</em>: 2022-06-04</td>
+		</tr>
+		<tr>
+			<td class="tbl_tit_desc" colspan="18">- <em>출처</em>: 영화진흥위원회 통합전산망 (http://www.kobis.or.kr)</td>
+		</tr>
+		<tr>
+			<td class="tbl_tit_ser" colspan="18">▶ 검색조건 [ 조회기간: 2004-01-01~2004-12-31&nbsp;&nbsp;&nbsp;영화구분: 전체&nbsp;&nbsp;&nbsp;국적: 한국&nbsp;&nbsp;&nbsp;지역: 전체&nbsp;&nbsp;&nbsp;제작사 : 전체&nbsp;&nbsp;&nbsp;배급사 : 전체&nbsp;&nbsp;&nbsp;감독명 : 전체&nbsp;&nbsp;&nbsp;배우명 : 전체&nbsp;&nbsp;&nbsp;등급별 : 전체&nbsp;&nbsp;&nbsp;장르별 : 전체 ]</td>
+		</tr>
+		
+	</table>
+	<table border="1" class="tbl_exc">
+		<thead>
+			<tr>
+				<th scope="col"><span>순위</span></th>
+				<th scope="col"><span>영화명</span></th>
+				<th scope="col"><span>개봉일</span></th>
+				<th scope="col">
+					<span>매출액
+					</span>
+				</th>
+				<th scope="col">
+					<span>매출액<br>점유율
+					</span>
+				</th>
+				<th scope="col">
+					<span>누적매출액
+					</span>
+				</th>
+				<th scope="col">
+					<span>관객수
+					</span>
+				</th>
+				<th scope="col">
+					<span>누적관객수
+					</span>
+				</th>
+				<th scope="col">
+					<span>스크린수
+					</span>
+				</th>
+				<th scope="col">
+					<span>상영횟수
+					</span>
+				</th>
+				<th scope="col">
+					<span>대표국적
+					</span>
+				</th>
+				<th scope="col">
+					<span>국적
+					</span>
+				</th>
+				<th scope="col">
+					<span>제작사
+					</span>
+				</th>
+				<th scope="col">
+					<span>배급사
+					</span>
+				</th>
+				<th scope="col">
+					<span>등급
+					</span>
+				</th>
+				<th scope="col">
+					<span>장르
+					</span>
+				</th>
+				<th scope="col">
+					<span>감독
+					</span>
+				</th>
+				<th scope="col">
+					<span>배우
+					</span>
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						1
+					</td>
+					<td class="tal">
+						태극기 휘날리며
+					</td>
+					<td>
+						2004-02-05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						15687180500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.066
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						15687180500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2544911
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2544911
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						115
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						22375
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						강제규필름
+					</td>
+					<td>
+						(주)다자인소프트,(주)쇼박스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						전쟁,드라마
+					</td>
+					<td>
+						강제규
+					</td>
+					<td class="tal">
+						장동건,원빈,이은주,공형진,조원희,이장욱,이영란,정희준,박유신,김효열,김효준,최재혁,이건우,박태원,배상철,김범주,한선랑,이동혁,한재민,지중현,김대영,민지혁,이호천,임동빈,김재중,박성희,임성택,정승진,이정훈,오명준,이기수,김용현,이주원,이환희,장민호,정호빈,박길수,박동빈,안길강,김해곤,권태원,최교식,조운,전승재
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						2
+					</td>
+					<td class="tal">
+						내 머리 속의 지우개
+					</td>
+					<td>
+						2004-11-05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11919939500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11919939500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1885827
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1885827
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						206
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						29532
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)싸이더스
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						멜로/로맨스
+					</td>
+					<td>
+						이재한
+					</td>
+					<td class="tal">
+						정우성,손예진,데이비드 맥기니스,김부선,정광재,최기호,박경진,장재용,전은희,이영필,박윤희,이정인,신현탁,김중기,권병길,진용욱,정민성,최교식
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						3
+					</td>
+					<td class="tal">
+						귀신이 산다
+					</td>
+					<td>
+						2004-09-17
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11898748500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11898748500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1875936
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1875936
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						174
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						27936
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						코미디,공포(호러),판타지
+					</td>
+					<td>
+						김상진
+					</td>
+					<td class="tal">
+						김응수,장서희,차승원,김서현,최기웅,유대현,김성미,태인호,임상란,장승현,김정우,김양진,이종화,박성웅,장항선,윤문식,오정세,황석정,윤제문,이도겸,이미은
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						4
+					</td>
+					<td class="tal">
+						우리 형
+					</td>
+					<td>
+						2004-10-08
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11090682500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.046
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11090682500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1778607
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1778607
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						211
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						29282
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)진인사필름
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						안권태
+					</td>
+					<td class="tal">
+						원빈,조성제,신하균,김해숙,김석,김정태,이보영,박인혜,김범기,이상직,조진웅,정호빈,김광규
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						5
+					</td>
+					<td class="tal">
+						실미도
+					</td>
+					<td>
+						2003-12-24
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						9905232500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.040999999999999995
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10923920500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1559134
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1719165
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						51
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						13460
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						전쟁
+					</td>
+					<td>
+						강우석
+					</td>
+					<td class="tal">
+						설경구,안성기,허준호,정재영,임원희,강성진,강신일,이도겸,엄태웅,김강우,이효정,석재승,김문희,신성호,최진,심정운,박진수,주경탁,백성기,김봉식,최명규,전병윤,유상섭,이성원,임경호,김진휘,윤효석,이경근,조민준,류제승
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						6
+					</td>
+					<td class="tal">
+						바람의 파이터
+					</td>
+					<td>
+						2004-08-12
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						9158945500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.038
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						9158945500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1442299
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1442299
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						110
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						15895
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						아이비젼엔터테인먼트(주)
+					</td>
+					<td>
+						영화사청어람(주)
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						액션
+					</td>
+					<td>
+						양윤호
+					</td>
+					<td class="tal">
+						양동근,히라야마 아야,허명행,정두홍,송혁재,주경탁,김대우,김규현,이호식,김순재,김영주,양길영,이경원,정태우,이한솔,염혜란,한이진
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						7
+					</td>
+					<td class="tal">
+						내 여자친구를 소개합니다
+					</td>
+					<td>
+						2004-06-03
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8329341500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.035
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8329341500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1298666
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1298666
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						185
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						19289
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)아이필름홀딩스
+					</td>
+					<td>
+						CJ ENM,아이러브시네마
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						멜로/로맨스,드라마
+					</td>
+					<td>
+						곽재용
+					</td>
+					<td class="tal">
+						전지현,장혁,김정태,정호빈,오정세,김창완,김광규,최주현,정한철,안수라,배재일,권영빈,백경찬,한지빈,원태운,장원식,윤선희,임종식,이호경,송윤희,김희영,안호완,박윤희,박윤희,이기우,정보름,우기홍,서동원
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						8
+					</td>
+					<td class="tal">
+						늑대의 유혹
+					</td>
+					<td>
+						2004-07-22
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8025959500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.034
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8025959500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1297296
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1297296
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						123
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						12777
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)싸이더스
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김태균
+					</td>
+					<td class="tal">
+						강동원,이청아,조한선,이명수,정혜영,김현진,박용두,조인형,박진희,정다혜,김보연,김응수,남정희
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						9
+					</td>
+					<td class="tal">
+						가족
+					</td>
+					<td>
+						2004-09-03
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8051239500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.034
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8051239500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1270581
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1270581
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						104
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						25473
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						튜브픽쳐스(주)
+					</td>
+					<td>
+						(주)튜브엔터테인먼트
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						이정철
+					</td>
+					<td class="tal">
+						수애,주현,박지빈,박희순,박상영,정욱,박상우,오현수,전국환
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						10
+					</td>
+					<td class="tal">
+						시실리 2km
+					</td>
+					<td>
+						2004-08-13
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8049487000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.034
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8049487000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1263196
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1263196
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						86
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						16919
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한맥영화(주)
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						신정원
+					</td>
+					<td class="tal">
+						권오중,김윤석,임은경,임창정,주진모,최원석,정소연,이재민,변희봉,우현,신이,박명신,최원영
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						11
+					</td>
+					<td class="tal">
+						S 다이어리
+					</td>
+					<td>
+						2004-10-22
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						7024070500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.028999999999999998
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						7024070500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1098583
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1098583
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						169
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						20150
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)아이필름홀딩스
+					</td>
+					<td>
+						CJ ENM,아이러브시네마
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						권종관
+					</td>
+					<td class="tal">
+						공유,김광일,홍윤희,최우혁,이현우,이하나,김수로,김선화,김선아,김미경,최철수,안현주,서상우,임재연,오주은,이찬호,이철호,이충신,이찬호
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						12
+					</td>
+					<td class="tal">
+						알포인트
+					</td>
+					<td>
+						2004-08-20
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6792339000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.027999999999999997
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6792339000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1068087
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1068087
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						100
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						15833
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						씨앤필름(주)
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						전쟁
+					</td>
+					<td>
+						공수창
+					</td>
+					<td class="tal">
+						감우성,손병호,박원상,오태경,이선균,손진호,문영동,정경호,김병철,기주봉,신진우,최차남,황성진,조현수,이동운,한종훈,곽성훈,이호용,정용훈,이수성,양희선,이은혜,김완식,오현수,안내상
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						13
+					</td>
+					<td class="tal">
+						주홍글씨
+					</td>
+					<td>
+						2004-10-29
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6648786000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.027999999999999997
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6648786000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1030259
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1030259
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						190
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						18777
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)엘제이필름
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						스릴러,멜로/로맨스
+					</td>
+					<td>
+						변혁
+					</td>
+					<td class="tal">
+						성현아,한석규,이은주,변혁,엄지원,김중기,정인기
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						14
+					</td>
+					<td class="tal">
+						어린 신부
+					</td>
+					<td>
+						2004-04-02
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6240174500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.026000000000000002
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6240174500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						991674
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						991674
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						70
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						12895
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)컬처캡미디어
+					</td>
+					<td>
+						코리아픽쳐스(주)
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						김호준
+					</td>
+					<td class="tal">
+						김래원,김보경,안선영,문근영,진경,김혜옥,김인문,한진희,송기윤,선우은숙,신세경,최장헌,박준석,박진우,유순일,임관우,장미희,김용환,류덕환,전원주,윤서현
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						15
+					</td>
+					<td class="tal">
+						역도산
+					</td>
+					<td>
+						2004-12-15
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6050131500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.025
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6050131500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						951646
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						951646
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						223
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						14789
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)싸이더스,㈜싸이더스픽쳐스
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						송해성
+					</td>
+					<td class="tal">
+						설경구,이명수,유병훈
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						16
+					</td>
+					<td class="tal">
+						범죄의 재구성
+					</td>
+					<td>
+						2004-04-15
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6132904000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.026000000000000002
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6132904000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						942198
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						942198
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						73
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11397
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)싸이더스
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						스릴러
+					</td>
+					<td>
+						최동훈
+					</td>
+					<td class="tal">
+						김윤석,박신양,주진모,염정아,이기철,백윤식,이문식,천호진,박원상,김상호,성소원,송현정,한지선,서종해,김선태,이호원,박세환,오형진,이경헌,이인성,이현정,임하룡,정석원,윤다경,조희봉,김기천,손병욱
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						17
+					</td>
+					<td class="tal">
+						여선생 VS 여제자
+					</td>
+					<td>
+						2004-11-17
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5261476506
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.022000000000000002
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5261476506
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						846020
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						846020
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						182
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						20893
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)좋은영화
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						장규성
+					</td>
+					<td class="tal">
+						김응수,이지영,이지훈,이세영,염정아,정형민,김혜경,황경애,최란,오은석,최윤정,이정헌,이원종,변희봉,신현종,김정영,전국향,최정인
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						18
+					</td>
+					<td class="tal">
+						아라한 장풍대작전
+					</td>
+					<td>
+						2004-04-30
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5207905000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.022000000000000002
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5207905000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						810406
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						810406
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						82
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						12593
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)싸이더스
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						액션,드라마
+					</td>
+					<td>
+						류승완
+					</td>
+					<td class="tal">
+						류승범,윤소이,안성기,김수현,김지영,허명행,김효선,심재원,도영훈,이무룡,윤도현,장혁진,정두홍,권승구,이춘영,임하룡,유순철,이대연,안길강,윤주상,권범택
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						19
+					</td>
+					<td class="tal">
+						내 남자의 로맨스
+					</td>
+					<td>
+						2004-07-16
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4895975500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.02
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4895975500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						765720
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						765720
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						102
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						9658
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						메이필름(주)
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						박제현
+					</td>
+					<td class="tal">
+						김상경,박동빈,김정은,이유진,신영미,김희은,안준우,이광재,서광재,박솔,엄기욱,최이영,엄기욱,맹상훈,지대한,한재영,정희태
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						20
+					</td>
+					<td class="tal">
+						효자동 이발사
+					</td>
+					<td>
+						2004-05-05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4855872900
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.02
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4855872900
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						748380
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						748380
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						83
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10745
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						영화사청어람(주)
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						임찬상
+					</td>
+					<td class="tal">
+						문소리,송강호,주진모,이재응,오달수,노형욱,류승수,정세인,김민석,최한철,채성민,민봉기,손병호,박길수,조영진,정대용,윤주상,김경룡,최홍일,최교식,오창경
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						21
+					</td>
+					<td class="tal">
+						아는 여자
+					</td>
+					<td>
+						2004-06-25
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4686101500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.02
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4686101500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						736296
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						736296
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						81
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10941
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						필름있수다
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						장진
+					</td>
+					<td class="tal">
+						이나영,정재영,이재용,이민정,이상민,조은정,지상용,이은석,김준혁,임하룡,조덕현,장영남,이철민,최일화
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						22
+					</td>
+					<td class="tal">
+						달마야, 서울 가자
+					</td>
+					<td>
+						2004-07-09
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4469579500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.019
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4469579500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						703507
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						703507
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						128
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10918
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)타이거픽쳐스,(주)씨네월드
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						육상효
+					</td>
+					<td class="tal">
+						김지영,신현준,유해진,이성호,정진영,윤지연,이원종,김만수,홍성훈,박진,박찬민,하상호,임철민,공유석,김성구,이준회,신정근,정한용,전소현,염동헌,박윤호
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						23
+					</td>
+					<td class="tal">
+						신부수업
+					</td>
+					<td>
+						2004-08-05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4255753000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.018000000000000002
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4255753000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						675521
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						675521
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						113
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						9931
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						기획시대(주)
+					</td>
+					<td>
+						코리아픽쳐스(주)
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						드라마,멜로/로맨스
+					</td>
+					<td>
+						허인무
+					</td>
+					<td class="tal">
+						하지원,권상우,김도형,오대환,김유나,김선화,김인권,김인문,김미연,진이한,남진호,김도현,박경숙,이상현,김순옥,김지나,박효준,김일우,천우희,홍인
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						24
+					</td>
+					<td class="tal">
+						슈퍼스타 감사용
+					</td>
+					<td>
+						2004-09-17
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4073017000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.017
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4073017000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						627199
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						627199
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						128
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						15185
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)싸이더스
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						전체관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김종현
+					</td>
+					<td class="tal">
+						이범수,공유,윤진서,하정우,이명수,이혁재,송민규,이대희,정석원,김상현,최봉석,이성덕,김철용,예민정,이정준,정준하,장항선,장소연,이태성,박효주,조희봉,박충선,조원동,류승수,최대훈,박용우,이람,권유준
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						25
+					</td>
+					<td class="tal">
+						분신사바
+					</td>
+					<td>
+						2004-08-05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3828714000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.016
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3828714000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						608479
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						608479
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						97
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						9877
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)소프트랜드 영상 사업부 에이포스트 픽쳐스
+					</td>
+					<td>
+						브에나비스타인터내셔널코리아
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						공포(호러)
+					</td>
+					<td>
+						안병기
+					</td>
+					<td class="tal">
+						김규리,이유리,이세은,최정윤,안성범,이경미,최성민,모지은,김경룡
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						26
+					</td>
+					<td class="tal">
+						말죽거리 잔혹사
+					</td>
+					<td>
+						2004-01-16
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3837152000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.016
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3837152000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						604969
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						604969
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						40
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5513
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)싸이더스,㈜싸이더스픽쳐스
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						액션,멜로/로맨스
+					</td>
+					<td>
+						유하
+					</td>
+					<td class="tal">
+						권상우,이정진,한가인,김인권,박효준,이종혁,백봉기,안내상,조진웅,김동영,강동수,이동연,김대성,이민구,조주연,민성주,김성문,최선중,전진우,김소라,김수민,박수영,정영민,정진모,우성,김정열,양종규,이광재,이진욱,이혜선,김병춘,한재영,천호진,김부선,권태원,서동원,백주희,박혁민
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						27
+					</td>
+					<td class="tal">
+						투 가이즈
+					</td>
+					<td>
+						2004-07-09
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3584851500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.015
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3584851500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						568230
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						568230
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						93
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8311
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)에스씨에스엔터테인먼트
+					</td>
+					<td>
+						쇼이스트(주)
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						박헌수
+					</td>
+					<td class="tal">
+						김성훈,차태현,박중훈,정환석,송남규,최정인,박한기,김병국,김경인,유소영,윤기호,김일환,정보름,이수나,김재훈,김창규,김용덕,한은정,이창용,박인환,지대한
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						28
+					</td>
+					<td class="tal">
+						령
+					</td>
+					<td>
+						2004-06-17
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3554937000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.015
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3554937000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						558807
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						558807
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						74
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8781
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						㈜팝콘필름
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						공포(호러)
+					</td>
+					<td>
+						김태경,이인규
+					</td>
+					<td class="tal">
+						김하늘,신이,류진,남상미,이윤지,전혜빈,김근영,최은재,김해숙,기주봉
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						29
+					</td>
+					<td class="tal">
+						돈 텔 파파
+					</td>
+					<td>
+						2004-09-03
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3481025000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.015
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3481025000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						558745
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						558745
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						81
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10664
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						기획시대(주)
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						이상훈
+					</td>
+					<td class="tal">
+						정웅인,유승호,채민서,이유진,천지윤,윤정,최우정,임호,이종수
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						30
+					</td>
+					<td class="tal">
+						누구나 비밀은 있다
+					</td>
+					<td>
+						2004-07-30
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3529353500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.015
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3529353500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						542955
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						542955
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						88
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						7650
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)태원엔터테인먼트
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						코미디,멜로/로맨스
+					</td>
+					<td>
+						장현수
+					</td>
+					<td class="tal">
+						김효진,이병헌,추상미,최지우,임현주,황재원,최경민,임혜경,임승범,이재훈,정준하,탁재훈,김해곤,신이
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						31
+					</td>
+					<td class="tal">
+						꽃피는 봄이 오면
+					</td>
+					<td>
+						2004-09-23
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3201626000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.013000000000000001
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3201626000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						497689
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						497689
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						117
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11734
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)씨즈엔터테인먼트
+					</td>
+					<td>
+						영화사청어람(주)
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						류장하
+					</td>
+					<td class="tal">
+						최민식,장신영,김호정,김강우,김동영,이민아,조명호,최태규,김기철,김길웅,이동진,김경준,박소윤,김정석,김영옥,이재응,이민아,엄효섭,최일화
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						32
+					</td>
+					<td class="tal">
+						인어 공주
+					</td>
+					<td>
+						2004-06-30
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2828706500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.012
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2828706500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						437225
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						437225
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						105
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8794
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						나우필름(주)
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						전체관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						박흥식
+					</td>
+					<td class="tal">
+						전도연,박해일,고두심,김봉근,이선균,김은영,주진모,송은주,신수현,홍지현,박현두,사소인,강희정,김일종,김부선,신동환,박명신,조현숙
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						33
+					</td>
+					<td class="tal">
+						목포는 항구다
+					</td>
+					<td>
+						2004-02-20
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2673832500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.011000000000000001
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2673832500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						425725
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						425725
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						25
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6239
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						기획시대(주)
+					</td>
+					<td>
+						코리아픽쳐스(주)
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마,코미디
+					</td>
+					<td>
+						김지훈
+					</td>
+					<td class="tal">
+						김윤태,차인표,조재현,김현정,송선미,박원서,방선진,문양식,김선애,유은아,이선규,장국환,임도기,정영호,이예은,조덕현,손병호,최덕문,이한위,김일우,기주봉,정경호,정상훈,권혁호,권태원,정인기,정희태,서병철
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						34
+					</td>
+					<td class="tal">
+						그놈은 멋있었다
+					</td>
+					<td>
+						2004-07-22
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2309055500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.01
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2309055500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						372591
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						372591
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						77
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5425
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						엘티 픽쳐스
+					</td>
+					<td>
+						프라임픽쳐스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						이환경
+					</td>
+					<td class="tal">
+						송승헌,김지혜,정다빈,이기우,이민혁,김효성,박정률,나수원,이동윤,김경록,곽동학,박민아,박성희,우성,이대일,이유명,정우,이환경,정준하,김보연,남궁은숙
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						35
+					</td>
+					<td class="tal">
+						얼굴 없는 미녀
+					</td>
+					<td>
+						2004-08-06
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2228765000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.009000000000000001
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2228765000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						346015
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						346015
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						72
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5594
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)아이필름홀딩스
+					</td>
+					<td>
+						CJ ENM,아이러브시네마
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						스릴러
+					</td>
+					<td>
+						김인식
+					</td>
+					<td class="tal">
+						김혜수,김태우,한정수,김영애,김무령,윤희현,김형석,안성현,채은석,박보연,정지환,정인기,조운
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						36
+					</td>
+					<td class="tal">
+						그녀를 믿지 마세요
+					</td>
+					<td>
+						2004-02-20
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1859615500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0080
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1859615500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						298221
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						298221
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						25
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4664
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						㈜영화사시선
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						배형준
+					</td>
+					<td class="tal">
+						강동원,김용선,진경,김지영,김하늘,김은영,송재호,임하룡,최연수,김창수,최유선,이안나,이미은,류태호,권태원,홍인,이영은
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						37
+					</td>
+					<td class="tal">
+						내사랑 싸가지
+					</td>
+					<td>
+						2004-01-16
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1836153500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0080
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1836153500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						296125
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						296125
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						22
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2967
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						제이웰엔터테인먼트(주),(주)포이보스
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						신동엽
+					</td>
+					<td class="tal">
+						김재원,진태현,하지원,김지훈,한민,강정호,김상혁,유현호,최용준,김용건,김민경,김창완,임혁필
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						38
+					</td>
+					<td class="tal">
+						페이스
+					</td>
+					<td>
+						2004-06-11
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1534151500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0060
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1534151500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						238950
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						238950
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						69
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5674
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)태원엔터테인먼트
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						공포(호러)
+					</td>
+					<td>
+						유상곤
+					</td>
+					<td class="tal">
+						송윤아,신현준,조원희,장석원,김승욱,안석환,홍수아,신용하,나관,권혁,진혜미,박승찬,이승민,이철민,이주실,오정세
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						39
+					</td>
+					<td class="tal">
+						썸
+					</td>
+					<td>
+						2004-10-22
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1488328000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0060
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1488328000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						237763
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						237763
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						121
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						8366
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						씨앤필름(주)
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						스릴러
+					</td>
+					<td>
+						장윤현
+					</td>
+					<td class="tal">
+						고수,김효인,신두현,강신일,강신일,김혜진,최화영,대룡,윤소일,오정은,이승준,강성진,한재영
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						40
+					</td>
+					<td class="tal">
+						맹부삼천지교
+					</td>
+					<td>
+						2004-03-26
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1424995500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0060
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1424995500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						229240
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						229240
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						56
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5254
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						코리아 엔터테인먼트
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						김지영
+					</td>
+					<td class="tal">
+						손창민,조재현,소이현,손현주,김뢰하,김홍석,홍상석,박종욱,안갑용,나상문,김덕형,유상범,곽은미,김택수,유용현,유지원,인현주,박송이,최영주,이영자,오상민,김용석,이재웅,정석용,이인
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						41
+					</td>
+					<td class="tal">
+						하류인생
+					</td>
+					<td>
+						2004-05-21
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1470927500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0060
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1470927500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						224794
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						224794
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						88
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6039
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						태흥영화(주)
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						액션
+					</td>
+					<td>
+						임권택
+					</td>
+					<td class="tal">
+						조승우,김규리,문혜영,이재룡,이주원,최태환,송길한,조상연,조선종,박은아,김현석,최흥국,심재원,심효진,남우성,하성민,박호진,단혁태,백기현,지성환,서동현,모상범,서영우,김대승,김봉수,우영재,유광일,박동혁,김성실,이희탁,박민희,장은희,장찬희,전병욱,태인호,박상욱,임문섭,박상현,임수철,임순우,김태득,최영심,정수영,이후곤,임세호,오은석,김수용,김정섭,김정일,이기정,이한,김주경,이재인,최민철,오유진,김보연,남문철,이황의,송능한,문정희,한창현,손경원,주부진,손병욱
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						42
+					</td>
+					<td class="tal">
+						인형사
+					</td>
+					<td>
+						2004-07-30
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1324401000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0060
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1324401000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						214709
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						214709
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						60
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4035
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)필마픽쳐스 
+					</td>
+					<td>
+						롯데쇼핑㈜롯데시네마
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						공포(호러)
+					</td>
+					<td>
+						정용기
+					</td>
+					<td class="tal">
+						임은경,김유미,심형탁,옥지영,천호진,조성아,안재범,배효진,임종호,정진환,최유성,김정자,남명렬,김도영
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						43
+					</td>
+					<td class="tal">
+						나두야 간다
+					</td>
+					<td>
+						2004-06-25
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1215167500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0050
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1215167500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						193554
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						193554
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						60
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5005
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						화이트리시네마
+					</td>
+					<td>
+						롯데쇼핑㈜롯데시네마
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						정연원
+					</td>
+					<td class="tal">
+						권용운,안관수(추천),손창민,정준호,오유미,정소영,임동문,신현탁,서범식,강성필,서동수,금보라,장태성,전미선
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						44
+					</td>
+					<td class="tal">
+						어디선가 누군가에 무슨일이 생기면 틀림없이 나타난다 홍반장
+					</td>
+					<td>
+						2004-03-12
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1158210500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0050
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1158210500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						181510
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						181510
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						28
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3570
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						㈜제니스엔터테인먼트
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						강석범
+					</td>
+					<td class="tal">
+						김주혁,엄정화,김가연,기주봉,손재곤,김두찬,김준성,조성재,조은희,박지현,이복희,김영숙,허기호,노승범,이주리,강성필
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						45
+					</td>
+					<td class="tal">
+						쓰리 몬스터
+					</td>
+					<td>
+						2004-08-20
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1161290500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0050
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1161290500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						180377
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						180377
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						60
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3970
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국,홍콩,일본
+					</td>
+					<td>
+						(주)영화사봄,어플로즈픽쳐스,가도카와헤럴드픽쳐스
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						공포(호러)
+					</td>
+					<td>
+						박찬욱,미이케 다카시,프루트 챈
+					</td>
+					<td class="tal">
+						강혜정,하세가와 쿄코,이병헌,임원희,와타베 아츠로,양천화
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						46
+					</td>
+					<td class="tal">
+						까불지마
+					</td>
+					<td>
+						2004-12-03
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						999160000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0040
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						999160000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						155308
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						155308
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						90
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6418
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						제이유프로덕션(주)
+					</td>
+					<td>
+						영화사청어람(주)
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						오지명
+					</td>
+					<td class="tal">
+						오지명,최불암,노주현,김정훈,임유진,박영아,조윤진,나재욱,권창범,서명석,최길호,유희연,윤은정,정유신,이재경,김학철,정호빈,정다빈,윤서현
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						47
+					</td>
+					<td class="tal">
+						동해물과 백두산이
+					</td>
+					<td>
+						2003-12-31
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						935988000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0040
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1041877500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						146740
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						163194
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						21
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1865
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)영화사샘,(주)쇼박스
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						안진우
+					</td>
+					<td class="tal">
+						정준호,공형진,류현경,박정우,김유신,문성현,박상욱,윤지영,정지영,양지은,이혜미,신현탁,정경순,김광규,오지혜,한재영,한창현,박윤호
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						48
+					</td>
+					<td class="tal">
+						어깨동무
+					</td>
+					<td>
+						2004-03-12
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						753985500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0030
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						753985500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						119884
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						119884
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						26
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3015
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)씨케이픽쳐스
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						조진규
+					</td>
+					<td class="tal">
+						김아중,최령,이성진,이문식,유동근,박예리,박정률,배정아,강호동,김경용,최철호,김무생
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						49
+					</td>
+					<td class="tal">
+						여자는 남자의 미래다
+					</td>
+					<td>
+						2004-05-05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						778685500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0030
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						778685500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						116639
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						116639
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						34
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3520
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						미라신코리아(주),유니코리아문예투자(주)
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						홍상수
+					</td>
+					<td class="tal">
+						유지태,성현아,김태우,오유진,엄수정,김호정,박정환,오달수,김방선,허영진,박희은,김대훈,전은미,박승배,서하나,김태훈,박희은
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						50
+					</td>
+					<td class="tal">
+						라이어
+					</td>
+					<td>
+						2004-04-23
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						706033000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0030
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						706033000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						108156
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						108156
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						51
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3092
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						씨앤필름(주)
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						코미디,멜로/로맨스
+					</td>
+					<td>
+						김경형
+					</td>
+					<td class="tal">
+						주진모,공형진,서영희,손현주,정우철,송선미,오만석,기주봉,정희태
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						51
+					</td>
+					<td class="tal">
+						DMZ, 비무장지대
+					</td>
+					<td>
+						2004-11-26
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						659079000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0030
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						659079000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						102233
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						102233
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						65
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4649
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						이규형시네마(주)
+					</td>
+					<td>
+						영화사청어람(주)
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						드라마,전쟁
+					</td>
+					<td>
+						이규형
+					</td>
+					<td class="tal">
+						김정훈,정채경,박건형,김종환,조경진,조대영,박현욱,박현주,노장식,장광익,박상현,최수안,이영종,이영호,김종학,김종환,이지수,박휘순,이대연,정은표,리우진,이계형
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						52
+					</td>
+					<td class="tal">
+						바람의 전설
+					</td>
+					<td>
+						2004-04-09
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						636285500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0030
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						636285500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						97925
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						97925
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						42
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2889
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						필름매니아(주)
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						박정우
+					</td>
+					<td class="tal">
+						이성재,박솔미,김수로,문정희,김동영,김미경,정종훈,최정우,이정인,이칸희,유해진,정현철,조미경,홍성원,신현중,김의석,최현우,최혜진,허문영,백수미,한송이,백정현,권태훈,류정은,서원영,김도경,채영,최선희,오지연,정진영,김양수,김영복,이현우,이혜림,오현수,이필모,신현종,황석정,김병춘
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						53
+					</td>
+					<td class="tal">
+						발레 교습소
+					</td>
+					<td>
+						2004-12-03
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						531000000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0020
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						531000000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						87380
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						87380
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						83
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3551
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						좋은영화
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						변영주
+					</td>
+					<td class="tal">
+						윤계상,김민정,이준기,온주완,박윤영,도지원,백종현,김일형,전정호,김태균,이은경,이종원,이미도,윤택,곽민호,최정인,남정희
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						54
+					</td>
+					<td class="tal">
+						아홉살 인생
+					</td>
+					<td>
+						2004-03-26
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						527412000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0020
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						527412000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						85312
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						85312
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						27
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2492
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)황기성 사단,(주)조이슈즈
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						전체관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						윤인호
+					</td>
+					<td class="tal">
+						윤범호,김석,최성,이세영,나아현,김명재,정선경,안내상,송수근,송현석,노현정,이동혁,김경수,최덕문,신정근,지대한
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						55
+					</td>
+					<td class="tal">
+						빈집
+					</td>
+					<td>
+						2004-10-15
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						455157000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0020
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						455157000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						71342
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						71342
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						60
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4104
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)김기덕 필름,씨네클릭 아시아(팬텀)
+					</td>
+					<td>
+						영화사청어람(주)
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김기덕
+					</td>
+					<td class="tal">
+						이승연,재희,권혁호,주진모,이의수,신태석,박남민,박동진,이홍석,박세진,이종섭
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						56
+					</td>
+					<td class="tal">
+						거미숲
+					</td>
+					<td>
+						2004-09-03
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						412069500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0020
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						412069500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						63270
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						63270
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						61
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2368
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)오크필름
+					</td>
+					<td>
+						영화사청어람(주)
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						미스터리,범죄
+					</td>
+					<td>
+						송일곤
+					</td>
+					<td class="tal">
+						감우성,이은주,김영재,강경헌,서정,장현성,김의정,유주현,윤영,이용주,김희정,손병호,조성하,윤주상,정승길,지우
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						57
+					</td>
+					<td class="tal">
+						빙우
+					</td>
+					<td>
+						2004-01-16
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						363240500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0020
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						363240500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						55656
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						55656
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						18
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1015
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						쿠앤필름(주)
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김은숙
+					</td>
+					<td class="tal">
+						김하늘,이성재,송승헌,이상윤,김지연,유해진,조경래,추천호,이승준
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						58
+					</td>
+					<td class="tal">
+						여고생 시집가기
+					</td>
+					<td>
+						2004-12-23
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						323778500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						323778500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						52356
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						52356
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						51
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1888
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)더존필름
+					</td>
+					<td>
+						무비즈엔터테인먼트㈜
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						오덕환
+					</td>
+					<td class="tal">
+						은지원,임은경,황재석,김희성,박정율,신효진,김경환,민성주,정다빈,김철준,윤기원,이칸희,김동효,심이영
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						59
+					</td>
+					<td class="tal">
+						귀여워
+					</td>
+					<td>
+						2004-11-26
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						325502500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						325502500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						50874
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						50874
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						89
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3316
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						튜브픽쳐스(주)
+					</td>
+					<td>
+						(주)튜브엔터테인먼트
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						드라마,코미디
+					</td>
+					<td>
+						김수현
+					</td>
+					<td class="tal">
+						김석훈,정재영,예지원,박희순,장선우,박재영,박혜성,노진성,문성준,장석훈,윤일랑,김승식,이준원,김희정,김준배,박선우,김규남,이수빈
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						60
+					</td>
+					<td class="tal">
+						신석기 블루스
+					</td>
+					<td>
+						2004-12-30
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						303966500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						303966500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						48907
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						48907
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						85
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1118
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						㈜팝콘필름
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						김도혁
+					</td>
+					<td class="tal">
+						김현주,이종혁,이민아,이성재,남현,허정규,김인태,박보영,김지성,최진호,김창완,옥지영,이승호,신이,성기윤,원애리,정민성,김기천,남정희
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						61
+					</td>
+					<td class="tal">
+						마지막 늑대
+					</td>
+					<td>
+						2004-04-01
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						303851500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						303851500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						47731
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						47731
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						26
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1646
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						제네시스픽쳐스(주)
+					</td>
+					<td>
+						(주)쇼박스,영화사풍년상회(주)
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						구자홍
+					</td>
+					<td class="tal">
+						황정민,양동근,김경란,김현정,오달수,장항선,신동호,최가연,이화룡,최승호,이혜영,김준성,김준하,손호승,황석정,김기현,유승목,이봉규,조희봉,정인겸
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						62
+					</td>
+					<td class="tal">
+						사마리아
+					</td>
+					<td>
+						2004-03-05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						285452000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						285452000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						44856
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						44856
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						23
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1674
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)김기덕 필름
+					</td>
+					<td>
+						쇼이스트(주)
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김기덕
+					</td>
+					<td class="tal">
+						곽지민,이얼,서민정,한여름,권현민,최서진,임병조,김재영,정윤수,한창현,김기두,정인기
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						63
+					</td>
+					<td class="tal">
+						돌려차기
+					</td>
+					<td>
+						2004-07-23
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						253837000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						253837000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						41295
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						41295
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						53
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1804
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)씨네이천
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						남상국
+					</td>
+					<td class="tal">
+						박지연,현빈,진태현,김영호,김동완,신민철,신재민,정세인,최진우,조은희,나현,박철훈,남은영,노봉서,한용준,김갑동,김경모,서원진,김경욱,민성주,이상령,유재경,태인호,정민규,김태상,최세영,오선화,임대경,정유진,정철우,우성,김진섭,이창준,정우,이기우,문지윤
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						64
+					</td>
+					<td class="tal">
+						신암행어사
+					</td>
+					<td>
+						2004-11-26
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						247353500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						247353500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						40728
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						40728
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						66
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2547
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국,일본
+					</td>
+					<td>
+						캐릭터플랜(주)
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						애니메이션,판타지,SF
+					</td>
+					<td>
+						안태근,조지 시무라
+					</td>
+					<td class="tal">
+						구자형,지성,엄상현,배정미,송준석,배정민,김승준
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						65
+					</td>
+					<td class="tal">
+						안녕! 유에프오
+					</td>
+					<td>
+						2004-01-30
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						250534000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						250534000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						40361
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						40361
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						17
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						864
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						우리영화(주)
+					</td>
+					<td>
+						(주)튜브엔터테인먼트
+					</td>
+					<td>
+						전체관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김진민
+					</td>
+					<td class="tal">
+						김응수,변희봉,봉태규,이범수,이은주,정인선,홍윤정,박정수,배태종,류주현,정석원,이무룡,서용준,박근수,이힘찬,정금자,박상현,박상현,임선애,김진,이규섭,김종옥,조재윤,김영재,주부진,박성호
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						66
+					</td>
+					<td class="tal">
+						망치
+					</td>
+					<td>
+						2004-08-06
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						209407500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						209407500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						34805
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						34805
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						32
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1103
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						캐릭터플랜(주)
+					</td>
+					<td>
+						스폰지
+					</td>
+					<td>
+						전체관람가
+					</td>
+					<td>
+						애니메이션
+					</td>
+					<td>
+						안태근
+					</td>
+					<td class="tal">
+						김용준,표영재,최석필
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						67
+					</td>
+					<td class="tal">
+						그녀를 모르면 간첩
+					</td>
+					<td>
+						2004-01-30
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						187798000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						187798000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						30435
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						30435
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						22
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						822
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)엠쓰리엔터테인먼트
+					</td>
+					<td>
+						(주)쇼박스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						박한준
+					</td>
+					<td class="tal">
+						공유,김정화,백일섭,김애경,남상미,김경섭,송혁재,홍승현,박경환,심재원,박한준,서동욱,강현,문진호,정영준,이재혁,유순철,김명국,조달환,이승연,유인영
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						68
+					</td>
+					<td class="tal">
+						도마 안중근
+					</td>
+					<td>
+						2004-09-10
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						128953000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						128953000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						20318
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						20318
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						59
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1814
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)소스원프로덕션
+					</td>
+					<td>
+						(주)소스원프로덕션
+					</td>
+					<td>
+						전체관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						서세원
+					</td>
+					<td class="tal">
+						유오성,고두심,임명규,박정환,정혜선,최우혁,정성모,강민선,김효섭,안성균,노은영,한명숙,서광석,원주한,유재영,박소연,조유진
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						69
+					</td>
+					<td class="tal">
+						올드보이
+					</td>
+					<td>
+						2003-11-21
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						120682000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0010
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1928502500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						18736
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						299163
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						9
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						437
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)에그필름,쇼이스트(주)
+					</td>
+					<td>
+						쇼이스트(주),(주)씨제이이엔엠
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						스릴러
+					</td>
+					<td>
+						박찬욱
+					</td>
+					<td class="tal">
+						최민식,유지태,강혜정,김병옥,오달수,이승신,윤진서,지대한,오태경,유연석,김원중,박재용,박지훈,한정옥,박근석,곽정애,임설아,박성규,오영주,임승용,최재섭,이대연,오광록,김수현,용이,박명신
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						70
+					</td>
+					<td class="tal">
+						고독이 몸부림칠 때
+					</td>
+					<td>
+						2004-03-19
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						68938500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						68938500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10745
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10745
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						20
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						826
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)마술피리
+					</td>
+					<td>
+						(주)쇼박스,영화사풍년상회(주)
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						이수인
+					</td>
+					<td class="tal">
+						주현,선우용녀,김무생,박영규,송재호,양택조,진희경,이주실,서원상,김재환,김준배,김준배,이재응,이세영
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						71
+					</td>
+					<td class="tal">
+						날으는 돼지 - 해적 마테오
+					</td>
+					<td>
+						2004-07-24
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						34216000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						34216000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5466
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5466
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						180
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						동우에이앤이(주)
+					</td>
+					<td>
+						에이아이씨코리아(AIC KOREA)
+					</td>
+					<td>
+						전체관람가
+					</td>
+					<td>
+						애니메이션
+					</td>
+					<td>
+						송근식
+					</td>
+					<td class="tal">
+						강수진,노민우,이장우,김호성,서영준,서원석,서원석,김학철
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						72
+					</td>
+					<td class="tal">
+						클레멘타인
+					</td>
+					<td>
+						2004-05-21
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						22983000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						22983000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3562
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3562
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						9
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						247
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						펄스타 픽쳐스
+					</td>
+					<td>
+						(주)엔터모드
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						액션
+					</td>
+					<td>
+						김두영
+					</td>
+					<td class="tal">
+						이동준,스티븐 시걸,은서우,김혜리,손철,윤현숙,윤현정,김규민,김희찬,김병채,김봉준,김성남,최영웅,이승윤,이영환,김영문,임호,기주봉,임혁필,전원주,최윤슬
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						73
+					</td>
+					<td class="tal">
+						해피 에로 크리스마스
+					</td>
+					<td>
+						2003-12-17
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						23827500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						459220000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3505
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						71441
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						136
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)튜브엔터테인먼트
+					</td>
+					<td>
+						(주)튜브엔터테인먼트
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						이건동
+					</td>
+					<td class="tal">
+						김선아,차태현,박영규,김지영,송윤희,조미영,홍성규,조상렬,신영운,박윤미,최창우,김현두,박창호,김경란,김동규,고현용,천승철,김선용,윤동원,박성범,최영두,김형범,정석용,오태경,손진호,김중기,박충선,염동헌,이청아,오창경
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						74
+					</td>
+					<td class="tal">
+						마법경찰 갈갈이와 옥동자
+					</td>
+					<td>
+						2004-02-13
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						18446500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						18446500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3074
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3074
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						13
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						252
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)토토엔터테인먼트
+					</td>
+					<td>
+						콜럼비아트라이스타㈜
+					</td>
+					<td>
+						전체관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						이한열
+					</td>
+					<td class="tal">
+						박준형,정종철,안갑용,정선교,이미혜,박석희,이수근
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						75
+					</td>
+					<td class="tal">
+						마이 제너레이션
+					</td>
+					<td>
+						2004-12-03
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						16793500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						16793500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2559
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2559
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						224
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						엔디에스오삼일칠 
+					</td>
+					<td>
+						아트플러스시네마네트워크
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						노동석
+					</td>
+					<td class="tal">
+						이명수,유재경,최두영,김병석,최재훈,안슬기,박경목,이성중,이광우
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						76
+					</td>
+					<td class="tal">
+						송환
+					</td>
+					<td>
+						2004-03-19
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11672000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						11672000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1829
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1829
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						157
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						푸른영상
+					</td>
+					<td>
+						㈜인디스토리
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						다큐멘터리
+					</td>
+					<td>
+						김동원
+					</td>
+					<td class="tal">
+						김선명,조창손,김영식
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						77
+					</td>
+					<td class="tal">
+						키다리 아저씨
+					</td>
+					<td>
+						2005-01-14
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2050000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2050000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						296
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						296
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						웰메이드엔터테인먼트,(주)유빈픽쳐스
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						공정식
+					</td>
+					<td class="tal">
+						하지원,연정훈,신이,김정난,정준하,손민경,조원경,권태근,변민지,강혜림,김부현,김덕진,민병훈,윤여송,정영주,양혜선,금보라,박은혜,현빈,오대규,정민성
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						78
+					</td>
+					<td class="tal">
+						욕망
+					</td>
+					<td>
+						2004-02-20
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						870000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						870000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						125
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						125
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						44
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)명필름
+					</td>
+					<td>
+						
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김응수
+					</td>
+					<td class="tal">
+						안내상,이수아,이동규,송영근,주미진,오성훈,최영재,장소연,최정인
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						79
+					</td>
+					<td class="tal">
+						달은...해가 꾸는 꿈
+					</td>
+					<td>
+						1992-02-29
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						594000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						594000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						99
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						99
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td>
+						고등학생이상관람가
+					</td>
+					<td>
+						드라마,멜로/로맨스,범죄
+					</td>
+					<td>
+						박찬욱
+					</td>
+					<td class="tal">
+						이승철,나현희,송승환,이기열
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						80
+					</td>
+					<td class="tal">
+						봄 여름 가을 겨울 그리고 봄
+					</td>
+					<td>
+						2003-09-19
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						475000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						475000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						95
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						95
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)엘제이필름,판도라 필름프로덕션 
+					</td>
+					<td>
+						코리아픽쳐스(주)
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김기덕
+					</td>
+					<td class="tal">
+						오영수,김기덕,김영민,서재경,차수아,지대한,김종호,송민영,김정영
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						81
+					</td>
+					<td class="tal">
+						복수는 나의 것
+					</td>
+					<td>
+						2002-03-28
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						312000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						312000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						52
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						52
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)스튜디오박스
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						범죄,스릴러
+					</td>
+					<td>
+						박찬욱
+					</td>
+					<td class="tal">
+						신하균,송강호,배두나,최아라,한보배,문금영,윤명오,이윤미,이정욱,이대연,신정근,기주봉,이금희,지대한,이칸희
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						82
+					</td>
+					<td class="tal">
+						선택
+					</td>
+					<td>
+						2003-10-24
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						128000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						128000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						32
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						32
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						13
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						영필름,(주)신씨네
+					</td>
+					<td>
+						영화사청어람(주)
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						홍기선
+					</td>
+					<td class="tal">
+						김종철,김중기,안석환,신범수,조용득,조우영,김동진,박형진,이정희,한남규,강성삼,최백락,김태민,정철호,이지상,이현주,손병호,최일화,박충선,장희철,권태원,주부진,우광훈
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						83
+					</td>
+					<td class="tal">
+						여섯 개의 시선
+					</td>
+					<td>
+						2003-11-14
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						186000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						186000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						31
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						31
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						국가인권위원회
+					</td>
+					<td>
+						영화사청어람(주)
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						여균동,정재은,임순례,박찬욱,박진표
+					</td>
+					<td class="tal">
+						이설희,백종학,변정수,김보현,주진모,지진희,한은지,오달수,강경윤,김현수,길해연,정인겸
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						84
+					</td>
+					<td class="tal">
+						미소
+					</td>
+					<td>
+						2004-02-13
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						128000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						128000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						26
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						26
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						미소필름,(주)가을엔터테인먼트
+					</td>
+					<td>
+						미소필름
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						박경희
+					</td>
+					<td class="tal">
+						추상미,조성하,송일곤,김수진,김은영,진경,손원평,송상석,김효정,최형락,유혜숙,오승욱,양희정,이찬호,이일호,장민호,손병호,이찬호,최정열,김수진
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						85
+					</td>
+					<td class="tal">
+						3인조
+					</td>
+					<td>
+						1997-05-24
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						120000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						120000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						20
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						20
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)씨네이천
+					</td>
+					<td>
+						
+					</td>
+					<td>
+						연소자관람불가
+					</td>
+					<td>
+						액션,코미디
+					</td>
+					<td>
+						박찬욱
+					</td>
+					<td class="tal">
+						이경영,김민종,정선경,도금봉,김부선,김성미,이인철,이기열,안길강
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						86
+					</td>
+					<td class="tal">
+						영매-산자와 죽은자의 화해
+					</td>
+					<td>
+						2003-09-05
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						56000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						56000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						14
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						14
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						3
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)엠엔에프씨
+					</td>
+					<td>
+						(주)엠엔에프씨
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						다큐멘터리
+					</td>
+					<td>
+						박기복
+					</td>
+					<td class="tal">
+						설경구,박영자,채정례,채둔굴,김두남,박진섭,이해경
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						87
+					</td>
+					<td class="tal">
+						살인의 추억
+					</td>
+					<td>
+						2003-04-25
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						13000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						13000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						13
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						13
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)싸이더스
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						스릴러
+					</td>
+					<td>
+						봉준호
+					</td>
+					<td class="tal">
+						송강호,김상경,김뢰하,정인선,한충환,김효성,이강산,김민철,최현기,심성보,김희진,한성근,서민수,김경래,강진희,이상욱,윤박지,박상우,박소현,김철용,김영관,류태호,박노식,박진우,변희봉,서영화,신현종,조덕제,이재응,유승목,손진호,신동환,최종률,손강국,박현영,권병길,신문성,염혜란,전미선,최교식,곽수정,천명재,이옥주
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						88
+					</td>
+					<td class="tal">
+						로드무비
+					</td>
+					<td>
+						2002-10-17
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						70000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						70000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						5
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)싸이더스
+					</td>
+					<td>
+						(주)시네마서비스,영화사청어람(주)
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김인식
+					</td>
+					<td class="tal">
+						황정민,정찬,서린,최현석,박경환,김윤미,정석원,김광태,정석원,이재응,한기중,손진호,김기천
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						89
+					</td>
+					<td class="tal">
+						킬러들의 수다
+					</td>
+					<td>
+						2001-10-12
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						35000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						35000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						7
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						7
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						코미디
+					</td>
+					<td>
+						장진
+					</td>
+					<td class="tal">
+						정진영,원빈,신현준,정재영,신하균,공효진,김민교,김준석,김지영,호산,김형중,한용수,민윤정,류승범,양동재,김영웅,이정환,조덕현,김학철,윤주상
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						90
+					</td>
+					<td class="tal">
+						수취인불명
+					</td>
+					<td>
+						2001-06-02
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						10000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)엘제이필름,(주)김기덕 필름
+					</td>
+					<td>
+						(주)튜브엔터테인먼트
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						김기덕
+					</td>
+					<td class="tal">
+						조재현,김영민,김진만,양동근,반민정,나혜미,김상원,전성애,이민옥,이흥욱,권남희,김정호,김준용,오정세
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						91
+					</td>
+					<td class="tal">
+						공공의 적
+					</td>
+					<td>
+						2002-01-24
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6500
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						범죄,액션
+					</td>
+					<td>
+						강우석
+					</td>
+					<td class="tal">
+						설경구,이성재,강신일,안내상,이문식,성지루,유해진,허명행,조규성,조영민,조용수,김병인,금종택,서범식,명영호,김다은,김경은,서지오,전재홍,정기성,양재성,이충희,안석환,기주봉,윤문식,김강일,이도겸,권병길,이칸희,권태원,김경룡
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						91
+					</td>
+					<td class="tal">
+						공동경비구역 JSA
+					</td>
+					<td>
+						2000-09-08
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6000
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						6000
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)명필름
+					</td>
+					<td>
+						CJ ENM
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						드라마,미스터리
+					</td>
+					<td>
+						박찬욱
+					</td>
+					<td class="tal">
+						송강호,이병헌,이영애,신하균,김태우,김광일,이종용,이대연,김명수,이한위,기주봉,원근희
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						93
+					</td>
+					<td class="tal">
+						천년호
+					</td>
+					<td>
+						2003-11-28
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						159310500
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						25292
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						4
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한맥영화(주)
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						15세관람가
+					</td>
+					<td>
+						멜로/로맨스,액션,판타지
+					</td>
+					<td>
+						이광훈
+					</td>
+					<td class="tal">
+						정준호,김효진,김혜리,최원석,강신일,박동빈
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr class="even">
+					<td >
+						93
+					</td>
+					<td class="tal">
+						클래식
+					</td>
+					<td>
+						2003-01-30
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						2
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						(주)에그필름
+					</td>
+					<td>
+						(주)시네마서비스
+					</td>
+					<td>
+						12세관람가
+					</td>
+					<td>
+						드라마
+					</td>
+					<td>
+						곽재용
+					</td>
+					<td class="tal">
+						손예진,조승우,조인성,이기우,서영희,김미진,이성훈,추현경,송윤회,신승수,한규태,김병옥,한정근,김성증,이서,이승철,이주열,안호완
+					</td>
+				</tr>
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr >
+					<td >
+						93
+					</td>
+					<td class="tal">
+						플라스틱 트리
+					</td>
+					<td>
+						2003-08-29
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:0.0%">
+						0.0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						0
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td style="mso-number-format:\#\,\#\#0\">
+						1
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						한국
+					</td>
+					<td>
+						알지프린스필름(주)
+					</td>
+					<td>
+						무비즈엔터테인먼트㈜
+					</td>
+					<td>
+						18세관람가
+					</td>
+					<td>
+						스릴러
+					</td>
+					<td>
+						어일선
+					</td>
+					<td class="tal">
+						김인권,조은숙,김정현,김무진,김윤식,박정호,박주복,임헌표,변두환,강지은,박성호,김영태,김도영
+					</td>
+				</tr>
+				
+				<tr class="sumTr" style="background-color:gray; height: 40px; text-align: right;">
+					<td>
+						합계
+					</td>
+					<td></td>
+					<td></td>
+					<td class="tar" style="mso-number-format:\#\,\#\#0\">
+						239143250406
+					</td>
+					<td></td>
+					<td class="tar" style="mso-number-format:\#\,\#\#0\">
+						242670351406
+					</td>
+					<td class="tar" style="mso-number-format:\#\,\#\#0\">
+						37741433
+					</td>
+					<td class="tar" style="mso-number-format:\#\,\#\#0\">
+						38291573
+					</td>
+					<td class="tar" style="mso-number-format:\#\,\#\#0\">
+						5737
+					</td>
+					<td class="tar" style="mso-number-format:\#\,\#\#0\">
+						605901
+					</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>					
+				</tr>
+				
+			
+		</tbody>
+	</table>
+
+</body>
+</html>
